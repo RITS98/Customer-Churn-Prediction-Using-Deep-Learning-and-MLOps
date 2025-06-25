@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/0b0617fcf1d24d7381e540a5e19de8e2/artifacts
+end_time: 1750858410027
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 0b0617fcf1d24d7381e540a5e19de8e2
+run_name: glamorous-turtle-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858370768
+status: 3
+tags: []
+user_id: ritayanpatra

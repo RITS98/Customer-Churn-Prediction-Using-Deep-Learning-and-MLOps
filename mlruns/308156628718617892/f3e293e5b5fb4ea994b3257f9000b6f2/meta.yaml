@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/f3e293e5b5fb4ea994b3257f9000b6f2/artifacts
+end_time: 1750858430528
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: f3e293e5b5fb4ea994b3257f9000b6f2
+run_name: magnificent-jay-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858410137
+status: 3
+tags: []
+user_id: ritayanpatra

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/72b3510ee37647cd8df8b41e810e4328/artifacts
+end_time: 1750858001330
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 72b3510ee37647cd8df8b41e810e4328
+run_name: inquisitive-mare-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750857843474
+status: 3
+tags: []
+user_id: ritayanpatra

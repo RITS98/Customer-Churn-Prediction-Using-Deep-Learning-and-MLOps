@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/3601e125203b4ed3b769f63e57aa356f/artifacts
+end_time: 1750857461217
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 3601e125203b4ed3b769f63e57aa356f
+run_name: youthful-midge-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750857427215
+status: 3
+tags: []
+user_id: ritayanpatra

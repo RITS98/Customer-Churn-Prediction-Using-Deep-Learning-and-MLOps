@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/d097d645c5274c858d3eada993ccf5da/artifacts
+end_time: 1750857843430
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: d097d645c5274c858d3eada993ccf5da
+run_name: resilient-worm-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750857634124
+status: 3
+tags: []
+user_id: ritayanpatra

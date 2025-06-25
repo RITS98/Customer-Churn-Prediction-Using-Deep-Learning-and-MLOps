@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/d58c2456feed4c7a8cf36ee38ea9ab34/artifacts
+end_time: 1750858464561
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: d58c2456feed4c7a8cf36ee38ea9ab34
+run_name: indecisive-sow-306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858430569
+status: 3
+tags: []
+user_id: ritayanpatra

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/5cf79f65bdcd4b6bb3e3daa748e49903/artifacts
+end_time: 1750857634079
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 5cf79f65bdcd4b6bb3e3daa748e49903
+run_name: nervous-hound-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750857461255
+status: 3
+tags: []
+user_id: ritayanpatra

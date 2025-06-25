@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/3003d568798c419ba40e13dbcc1a16e8/artifacts
+end_time: 1750857427175
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 3003d568798c419ba40e13dbcc1a16e8
+run_name: debonair-mouse-639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750857353550
+status: 3
+tags: []
+user_id: ritayanpatra

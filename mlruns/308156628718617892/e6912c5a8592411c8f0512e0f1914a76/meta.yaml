@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/e6912c5a8592411c8f0512e0f1914a76/artifacts
+end_time: 1750858370725
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: e6912c5a8592411c8f0512e0f1914a76
+run_name: traveling-robin-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858351193
+status: 3
+tags: []
+user_id: ritayanpatra

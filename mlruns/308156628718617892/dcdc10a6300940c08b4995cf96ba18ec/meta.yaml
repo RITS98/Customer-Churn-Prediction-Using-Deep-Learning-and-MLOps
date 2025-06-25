@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/dcdc10a6300940c08b4995cf96ba18ec/artifacts
+end_time: 1750857353509
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: dcdc10a6300940c08b4995cf96ba18ec
+run_name: glamorous-carp-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750857277371
+status: 3
+tags: []
+user_id: ritayanpatra

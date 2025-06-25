@@ -1,0 +1,12 @@
+torch
+lightning
+onnx
+onnxruntime
+mlflow
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras

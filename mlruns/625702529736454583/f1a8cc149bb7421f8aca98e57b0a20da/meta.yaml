@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/625702529736454583/f1a8cc149bb7421f8aca98e57b0a20da/artifacts
+end_time: 1750858546958
+entry_point_name: ''
+experiment_id: '625702529736454583'
+lifecycle_stage: active
+run_id: f1a8cc149bb7421f8aca98e57b0a20da
+run_name: best_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858505698
+status: 3
+tags: []
+user_id: ritayanpatra

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/c7a1974e985e4eb59834208a258ab16c/artifacts
+end_time: 1750858505354
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: c7a1974e985e4eb59834208a258ab16c
+run_name: unequaled-asp-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858464607
+status: 3
+tags: []
+user_id: ritayanpatra

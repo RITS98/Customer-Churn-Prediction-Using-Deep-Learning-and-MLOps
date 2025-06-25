@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/27c2a850e2df4108a4f50552e1bf12c1/artifacts
+end_time: 1750858236504
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 27c2a850e2df4108a4f50552e1bf12c1
+run_name: clean-squirrel-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858030742
+status: 3
+tags: []
+user_id: ritayanpatra

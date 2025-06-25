@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/625702529736454583
+creation_time: 1750858505693
+experiment_id: '625702529736454583'
+last_update_time: 1750858505693
+lifecycle_stage: active
+name: lightning_logs

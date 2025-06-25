@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/308156628718617892/9ace3608764745d2b070ce54d8eb7502/artifacts
+end_time: 1750858273204
+entry_point_name: ''
+experiment_id: '308156628718617892'
+lifecycle_stage: active
+run_id: 9ace3608764745d2b070ce54d8eb7502
+run_name: thoughtful-tern-836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750858236548
+status: 3
+tags: []
+user_id: ritayanpatra

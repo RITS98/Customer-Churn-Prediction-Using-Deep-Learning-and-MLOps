@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/308156628718617892
+creation_time: 1750857277262
+experiment_id: '308156628718617892'
+last_update_time: 1750857277262
+lifecycle_stage: active
+name: Churn Prediction Optuna
