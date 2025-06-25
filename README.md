@@ -1,4 +1,4 @@
-# Churn Modelling
+# Customer Churn Modelling and Prediction Using Deep Learning and MLOps
 
 In this project I am using Artificial Neural Network to model whether the person is going to leave the bank or not. It includes hyperparameter optimization (Optuna), experiment tracking (MLflow), and model export to ONNX format for portable inference.
 
@@ -128,6 +128,16 @@ I have `ChurnModelling.csv` file containf the required data for creating a ANN m
 
 ## MLflow UI Screenshots
 
+<img width="1547" alt="image" src="https://github.com/user-attachments/assets/7a5a522a-87db-4ac7-b771-b52ccd24ecad" />
+
+<img width="1691" alt="image" src="https://github.com/user-attachments/assets/0e0d7ab9-1605-4b9c-a36a-70d228c5dd8e" />
+
+<img width="1672" alt="image" src="https://github.com/user-attachments/assets/3e2e6671-c961-42d5-9f9a-ec6c86f31fe7" />
+
+<img width="1675" alt="image" src="https://github.com/user-attachments/assets/db205a60-b597-4815-a465-669bae6dfc30" />
+
+<img width="1694" alt="image" src="https://github.com/user-attachments/assets/27dc970c-e874-4282-a072-46503b2d5495" />
+
 
 ## Streamlit App
     -	Install Streamlit:  
@@ -142,4 +152,10 @@ I have `ChurnModelling.csv` file containf the required data for creating a ANN m
 
 ## Streamlit Visulizations
 
-![alt text](image.png)
+<img width="1044" alt="image" src="https://github.com/user-attachments/assets/e1bd9a4c-4f76-4dd7-b59d-0a0c5f8d09e7" />
+
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/8162a4cb-cd67-41d8-ab2f-c8c05c08c157" />
+
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/63ff65ad-86d7-4e4e-b23f-04e33187f5d4" />
+
+
