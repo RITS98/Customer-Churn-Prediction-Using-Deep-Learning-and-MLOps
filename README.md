@@ -113,7 +113,7 @@ I have `ChurnModelling.csv` file containf the required data for creating a ANN m
         ```
     -	Run the training script:  
         ```bash
-        python churn_model.py
+        python model.py
         ```
     -	Start MLflow UI:  
         ```bash
